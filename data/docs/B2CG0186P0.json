@@ -1,0 +1,25 @@
+{
+ "ref": "B2CG0186P0",
+ "refDisplay": "B2CG0186P0",
+ "title": "Dépose - repose : boîte de vitesses",
+ "nature": "Dépose-pose",
+ "applicability": "BVM MA",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0017"
+  }
+ ]
+}

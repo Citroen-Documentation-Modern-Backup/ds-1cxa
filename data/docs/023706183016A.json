@@ -1,0 +1,18 @@
+{
+ "ref": "023706183016A",
+ "refDisplay": "0237 06 183016A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "BVA AL4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0011"
+  }
+ ]
+}

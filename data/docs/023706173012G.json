@@ -1,0 +1,23 @@
+{
+ "ref": "023706173012G",
+ "refDisplay": "0237 06 173012G",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "FILTRE RESERVOIR EXTERIEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCG",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FCG",
+   "fctId": "FCT0010"
+  }
+ ]
+}

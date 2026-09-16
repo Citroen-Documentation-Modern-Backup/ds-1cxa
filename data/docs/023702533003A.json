@@ -1,0 +1,23 @@
+{
+ "ref": "023702533003A",
+ "refDisplay": "0237 02 533003A",
+ "title": "DEMARREUR FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS3",
+   "fctId": "FCT0302"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FS3",
+   "fctId": "FCT0302"
+  }
+ ]
+}

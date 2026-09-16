@@ -1,0 +1,18 @@
+{
+ "ref": "023706173057A",
+ "refDisplay": "0237 06 173057A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "CIRCUIT CARBURANT AVEC REFROIDISSEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBX",
+   "fctId": "FCT0010"
+  }
+ ]
+}

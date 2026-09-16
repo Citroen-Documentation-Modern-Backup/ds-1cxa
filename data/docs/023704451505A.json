@@ -1,0 +1,23 @@
+{
+ "ref": "023704451505A",
+ "refDisplay": "0237 04 451505A",
+ "title": "FREINS ARRIERE TAMBOUR CYLINDRE SEGMENTS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12270",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FTB",
+   "fctId": "FCT0041"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FTB",
+   "fctId": "FCT0041"
+  }
+ ]
+}

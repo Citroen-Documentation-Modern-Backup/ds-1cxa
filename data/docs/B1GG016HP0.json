@@ -1,0 +1,35 @@
+{
+ "ref": "B1GG016HP0",
+ "refDisplay": "B1GG016HP0",
+ "title": "Dépose - repose : radiateur de refroidissement moteur ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FTB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS3",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FTB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FS3",
+   "fctId": "FCT0009"
+  }
+ ]
+}

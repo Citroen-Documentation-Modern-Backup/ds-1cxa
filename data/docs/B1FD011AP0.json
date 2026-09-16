@@ -1,0 +1,20 @@
+{
+ "ref": "B1FD011AP0",
+ "refDisplay": "B1FD011AP0",
+ "title": "Contrôle  : pression d’huile",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0008"
+  }
+ ]
+}

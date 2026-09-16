@@ -1,0 +1,18 @@
+{
+ "ref": "023706173063C",
+ "refDisplay": "0237 06 173063C",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12851 SAUF PAYS CHAUDS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0010"
+  }
+ ]
+}

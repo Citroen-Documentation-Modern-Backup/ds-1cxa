@@ -1,0 +1,18 @@
+{
+ "ref": "023704314125A",
+ "refDisplay": "0237 04 314125A",
+ "title": "PEDALE DE FREIN PEDALIER CONTACTEUR STOP",
+ "nature": "",
+ "applicability": "BVM6 ET BVM MC ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0047"
+  }
+ ]
+}

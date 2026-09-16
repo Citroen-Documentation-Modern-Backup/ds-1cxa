@@ -1,0 +1,23 @@
+{
+ "ref": "023706235501A",
+ "refDisplay": "0237 06 235501A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR EP:16 - 16 DM2 ALU BRASE AVEC MEC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FTB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FTB",
+   "fctId": "FCT0009"
+  }
+ ]
+}

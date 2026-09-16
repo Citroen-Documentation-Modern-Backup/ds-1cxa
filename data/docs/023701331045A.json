@@ -1,0 +1,18 @@
+{
+ "ref": "023701331045A",
+ "refDisplay": "0237 01 331045A",
+ "title": "CARTER EMBRAYAGE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCE ET CP 19 X 71 JUSQU’A OPR 12683",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

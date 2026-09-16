@@ -1,0 +1,23 @@
+{
+ "ref": "023701114050A",
+ "refDisplay": "0237 01 114050A",
+ "title": "CARTER CYLINDRES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0004"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "023704456245A",
+ "refDisplay": "0237 04 456245A",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": " JUSQU’A DAM 1299881 OU  DEPUIS DAM 1334281 OU  JUSQU’A DAM 14328CA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0044"
+  }
+ ]
+}

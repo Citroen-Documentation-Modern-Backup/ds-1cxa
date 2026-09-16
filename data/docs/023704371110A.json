@@ -1,0 +1,18 @@
+{
+ "ref": "023704371110A",
+ "refDisplay": "0237 04 371110A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MA JUSQU’A OPR 13110",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0022"
+  }
+ ]
+}

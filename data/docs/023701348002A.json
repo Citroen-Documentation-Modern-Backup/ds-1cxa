@@ -1,0 +1,23 @@
+{
+ "ref": "023701348002A",
+ "refDisplay": "0237 01 348002A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCE",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FCE",
+   "fctId": "FCT0049"
+  }
+ ]
+}

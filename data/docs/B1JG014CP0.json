@@ -1,0 +1,40 @@
+{
+ "ref": "B1JG014CP0",
+ "refDisplay": "B1JG014CP0",
+ "title": "Dépose - repose : sondes à oxygène",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DA4&B0F=B0FCA",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DC5&B0F=B0FCA",
+   "fctId": "FCT0012"
+  }
+ ]
+}

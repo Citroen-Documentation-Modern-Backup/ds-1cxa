@@ -1,0 +1,23 @@
+{
+ "ref": "023703434045A",
+ "refDisplay": "0237 03 434045A",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBD",
+   "fctId": "FCT0028"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBD",
+   "fctId": "FCT0028"
+  }
+ ]
+}

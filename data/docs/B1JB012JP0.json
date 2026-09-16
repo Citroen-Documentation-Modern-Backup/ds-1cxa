@@ -1,0 +1,25 @@
+{
+ "ref": "B1JB012JP0",
+ "refDisplay": "B1JB012JP0",
+ "title": "Identification          - caractéristiques : ligne d’échappement EP3C-EP6C",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0011"
+  }
+ ]
+}

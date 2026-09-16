@@ -1,0 +1,18 @@
+{
+ "ref": "023701333345A",
+ "refDisplay": "0237 01 333345A",
+ "title": "BOITIER ELECTRONIQUE",
+ "nature": "",
+ "applicability": "BVA AL4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

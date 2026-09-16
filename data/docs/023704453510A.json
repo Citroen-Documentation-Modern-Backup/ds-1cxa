@@ -1,0 +1,18 @@
+{
+ "ref": "023704453510A",
+ "refDisplay": "0237 04 453510A",
+ "title": "MAITRE CYLINDRE RESERVOIR",
+ "nature": "",
+ "applicability": " JUSQU’A DAM 14328CA OU  JUSQU’A DAM 1299881 OU  DEPUIS DAM 1334281",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS1",
+   "fctId": "FCT0045"
+  }
+ ]
+}

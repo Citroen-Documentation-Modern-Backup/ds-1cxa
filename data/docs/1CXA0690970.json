@@ -1,0 +1,19 @@
+{
+ "ref": "1CXA0690970",
+ "refDisplay": "1CXA 0 69 0970",
+ "title": "CARTER DE 6EME",
+ "nature": "",
+ "applicability": "(L00I) C3 (A51) BERLINE 5PTES DIESEL TURBO DV6C BVM 6 RAPPORTS TYPE STT OU (L00B) C3 (A51) BERLINE 5PTES DIESEL TURBO DV6C BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

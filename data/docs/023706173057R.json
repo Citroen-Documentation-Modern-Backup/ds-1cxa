@@ -1,0 +1,18 @@
+{
+ "ref": "023706173057R",
+ "refDisplay": "0237 06 173057R",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "CIRCUIT CARBURANT SIMPLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBX",
+   "fctId": "FCT0010"
+  }
+ ]
+}

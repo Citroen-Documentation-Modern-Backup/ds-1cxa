@@ -1,0 +1,18 @@
+{
+ "ref": "023706235572A",
+ "refDisplay": "0237 06 235572A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0009"
+  }
+ ]
+}

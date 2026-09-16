@@ -1,0 +1,39 @@
+{
+ "ref": "1CXA05591226",
+ "refDisplay": "1CXA 0 559 1226",
+ "title": "BOITIER ELECTRONIQUE GESTION MAINTIEN TENSION",
+ "nature": "",
+ "applicability": "(L00J) C3 (A51) BERLINE 5PTES DIESEL TURBO DV4C BVM PILOTEE 5 RAPPORTS STT",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBD",
+   "fctId": "FCT0305"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0305"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0305"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBD",
+   "fctId": "FCT0305"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0305"
+  }
+ ]
+}

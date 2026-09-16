@@ -1,0 +1,23 @@
+{
+ "ref": "023702140005A",
+ "refDisplay": "0237 02 140005A",
+ "title": "COLLECTEUR REPARTITEUR ADMISSION",
+ "nature": "",
+ "applicability": " SAUF BICARBURATION GPL SAUF BASE POUR TRANSFORMATION GPL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FS3",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FS3",
+   "fctId": "FCT0010"
+  }
+ ]
+}

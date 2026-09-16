@@ -1,0 +1,23 @@
+{
+ "ref": "023704371130B",
+ "refDisplay": "0237 04 371130B",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 12775 SAUF PAYS GRAND FROID",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F7P",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0F7P",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "ref": "B1HG01M9P0",
+ "refDisplay": "B1HG01M9P0",
+ "title": "Dépose - repose : système d’admission d’air intégré inférieur ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0010"
+  }
+ ]
+}

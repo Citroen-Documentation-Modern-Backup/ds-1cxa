@@ -1,0 +1,20 @@
+{
+ "ref": "B1GB011EP0",
+ "refDisplay": "B1GB011EP0",
+ "title": "Identification          - caractéristiques : circuit de refroidissement moteur type         DV6ATED4",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0F3N",
+   "fctId": "FCT0009"
+  }
+ ]
+}
