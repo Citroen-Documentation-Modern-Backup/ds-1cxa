@@ -1,18 +1,1 @@
-{
- "ref": "023701002013A",
- "refDisplay": "0237 01 002013A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "BVM MA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXA",
-   "variantKey": "B0D=B0DA5&B0F=B0FCA",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"023701002013A","refDisplay":"0237 01 002013A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"BVM MA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXA","variantKey":"B0D=B0DA5&B0F=B0FCA","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXA)(B0FCA)(DVQ04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013650"},[]],["mpr",{"catal":"0237","grp":"4","grp2":"01","maj":"20111008","numfich":"002013A"},[["appl",{},["{(?1CXA)(B0FCA)(DVQ04)}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00058118","path":"/img/pr/18/0005/00058118.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013650","obsnfp":"LE-2010","ref":"00000135RL","refpg":"0135 RL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)}"]]]],["reporg",{},[["monte",{},["5F01"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"319, 71, 11","shape":"circle"},[]]]]]]]]]]}

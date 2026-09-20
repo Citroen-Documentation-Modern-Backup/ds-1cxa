@@ -1,18 +1,1 @@
-{
- "ref": "023705533014A",
- "refDisplay": "0237 05 533014A",
- "title": "DEMARREUR FIXATIONS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXA",
-   "variantKey": "B0D=B0DA5&B0F=B0FCT",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"023705533014A","refDisplay":"0237 05 533014A","title":"DEMARREUR FIXATIONS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXA","variantKey":"B0D=B0DA5&B0F=B0FCT","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CXA)(B0FCT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001977"},[]],["thesaurus",{"type":"10","code":"004659"},[]],["thesaurus",{"type":"10","code":"008699"},[]],["mpr",{"catal":"0237","grp":"491","grp2":"05","maj":"20130605","numfich":"533014A"},[["appl",{},["{(?1CXA)(B0FCT)}"]],["sti",{"ident":"49101"},[]],["img",{"numfich":"00075654","path":"/img/pr/54/0007/00075654.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001977","ref":"V764559080","refpg":"V7 645 590 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(DDG03)(DGY32)}"]],["reffour",{},[["four",{},["71367X"]],["refa",{},["M 000 T 32271 ZE"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(DDG03)(DGY32)}"]],["reffour",{},[["four",{},["71367X"]],["refa",{},["M000T32272ZE"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(DDG03)(DGY32)}"]],["reffour",{},[["four",{},["22969R"]],["refa",{},["0 001 106 405"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(DDG03)(DGY32)}"]],["reffour",{},[["four",{},["22969R"]],["refa",{},["0 001 106 406"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(DDG03)(DGY32)}"]],["reffour",{},[["four",{},["22969R"]],["refa",{},["0 001 0DB 60A"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 3"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"244, 102, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004659","ref":"0000696842","refpg":"6968 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X15"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"281, 131, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008699","ref":"00006913E8","refpg":"6913 E8"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-80"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"59, 73, 11","shape":"circle"},[]],["area",{"coords":"152, 55, 11","shape":"circle"},[]],["area",{"coords":"430, 300, 11","shape":"circle"},[]]]]]]]]]]}

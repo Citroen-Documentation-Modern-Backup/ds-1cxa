@@ -1,18 +1,1 @@
-{
- "ref": "023701002260A",
- "refDisplay": "0237 01 002260A",
- "title": "CACHE MOTEUR",
- "nature": "",
- "applicability": "INSONO SOUS CAPOT + TABLIER ET CONDUITE A GAUCHE OU CONDUITE A DROITE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXA",
-   "variantKey": "B0D=B0DA5&B0F=B0F3N",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"023701002260A","refDisplay":"0237 01 002260A","title":"CACHE MOTEUR","nature":"","applicability":"INSONO SOUS CAPOT + TABLIER ET CONDUITE A GAUCHE OU CONDUITE A DROITE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXA","variantKey":"B0D=B0DA5&B0F=B0F3N","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXA)(B0F3N)(DCX02)}{(?1CXA)(B0F3N)(DIX09)(DCX01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"011724"},[]],["thesaurus",{"type":"10","code":"010779"},[]],["mpr",{"catal":"0237","grp":"99","grp2":"01","maj":"20111008","numfich":"002260A"},[["appl",{},["{(?1CXA)(B0F3N)(DCX02)}{(?1CXA)(B0F3N)(DIX09)(DCX01)}"]],["sti",{"ident":"9901"},[]],["img",{"numfich":"00067359","path":"/img/pr/59/0006/00067359.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"011724","ref":"00000137E5","refpg":"0137 E5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"322, 34, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010779","ref":"00000137C6","refpg":"0137 C6"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"296, 253, 11","shape":"circle"},[]],["area",{"coords":"72, 136, 11","shape":"circle"},[]],["area",{"coords":"380, 191, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "023701002014A",
- "refDisplay": "0237 01 002014A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "BVA AL4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXA",
-   "variantKey": "B0D=B0DA5&B0F=B0FCA",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"023701002014A","refDisplay":"0237 01 002014A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"BVA AL4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXA","variantKey":"B0D=B0DA5&B0F=B0FCA","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXA)(B0FCA)(DVQ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["mpr",{"catal":"0237","grp":"4","grp2":"01","maj":"20111008","numfich":"002014A"},[["appl",{},["{(?1CXA)(B0FCA)(DVQ09)}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00000820","path":"/img/pr/20/0000/00000820.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","ref":"00000135QT","refpg":"0135 QT"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)}"]]]],["reporg",{},[["monte",{},["5F01"]]]]]],["pr",{"codesi":"013646","ref":"00000139WK","refpg":"0139 WK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXA)(~2)}"]]]],["reporg",{},[["monte",{},["5F01"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"298, 86, 11","shape":"circle"},[]]]]]]]]]]}
